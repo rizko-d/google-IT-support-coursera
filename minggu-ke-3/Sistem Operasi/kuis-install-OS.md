@@ -28,10 +28,10 @@ Jika Anda ingin mem-boot ke drive USB, bagaimana Anda mengubah pengaturan boot A
 
 Apa nama pengelola file di macOS?
 
-* **Pencari**
+* **Finder**
 * Penjelajah File
 * Konqueror
-* Komandan Tengah Malam
+* Midnight Comuner
 
 > Manajer file di MacOS disebut Finder.
 <br>
@@ -54,8 +54,8 @@ Anda mengerti! Anda dapat menggunakan perintah sentuh untuk membuat file menggun
 ____ adalah emulasi dari mesin fisik.
 
 * BIOS
-* **mesin virtual**
-* pengemudi
-* inti
+* **virtual machine**
+* driver
+* kernel
 
 > Mesin virtual digunakan untuk meniru mesin fisik.
