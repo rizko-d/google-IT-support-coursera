@@ -40,9 +40,9 @@ Apa nama pengelola file di macOS?
 
 Perintah apa yang dapat Anda gunakan untuk membuat file menggunakan bash?
 
-* kucing
+* cat
 * ls
-* **menyentuh**
+* **touch**
 * mkfile
 
 Anda mengerti! Anda dapat menggunakan perintah sentuh untuk membuat file menggunakan bash.
