@@ -6,7 +6,7 @@
 
 Karakteristik apa yang membedakan Solid State Drive dari Hard Disk Drive? Centang semua yang sesuai.
 
-**Faktor bentuk lebih kecil**
+* **Faktor bentuk lebih kecil**
 * Menggunakan Piringan Disk
 * **Bagian tidak bergerak**
 * RPM tinggi
@@ -31,7 +31,7 @@ Berapa lama waktu yang diperlukan untuk mentransfer file berukuran 1 GB pada USB
 * ~17 detik pada drive USB 2.0; ~0,02 detik pada drive USB 3.0
 * ~20 detik pada drive USB 2.0; ~2 detik pada drive USB 3.0
 * **~ 17 detik pada drive USB 2.0; ~2 detik pada drive USB 3.0**
-8 ~ 20 detik pada drive USB 2.0; ~0,02 detik pada drive USB 3.0
+* ~ 20 detik pada drive USB 2.0; ~0,02 detik pada drive USB 3.0
 Benar
 
 > Secara teoritis, USB 2.0 memiliki bandwidth 480 Mb/s, kira-kira 60 MB/s. Diperlukan waktu sekitar 17 detik untuk mentransfer 1024 MB data.
