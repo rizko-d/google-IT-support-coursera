@@ -1,19 +1,10 @@
-## [Sistem Operasi](https://www.coursera.org/learn/os-power-user?specialization=google-it-support)
+## Sistem operasi
 
-Dalam kursus ini -- melalui kombinasi video, demonstrasi, dan praktik langsung -- Anda akan belajar tentang komponen utama sistem operasi dan cara melakukan tugas penting seperti mengelola perangkat lunak dan pengguna, serta mengonfigurasi perangkat keras.
+Pada minggu ketiga kursus ini, kita akan belajar tentang sistem operasi. Kami akan membahas sistem operasi umum yang digunakan saat ini dan memahami cara kerjanya dengan perangkat keras komputer. Kita akan mempelajari tentang "proses boot" sistem operasi dan menunjukkan cara menginstal sistem operasi Windows, Linux, dan Mac OSX dari awal. Di akhir modul ini, Anda akan menggunakan lingkungan Qwiklabs untuk berinteraksi langsung dengan sistem operasi Windows dan Linux.
 
-Pada akhir kursus ini Anda akan dapat:
-* Menavigasi sistem file Windows dan Linux menggunakan antarmuka pengguna grafis dan juru bahasa baris perintah
-* Siapkan pengguna, grup, dan izin untuk akses akun.
-* Instal, konfigurasikan, dan hapus perangkat lunak pada sistem operasi Windows dan Linux.
-* Konfigurasikan partisi disk dan sistem file.
-* Memahami bagaimana proses sistem bekerja dan bagaimana mengelolanya.
-* Bekerja dengan log sistem dan alat koneksi jarak jauh.
-* Memanfaatkan pengetahuan sistem operasi untuk memecahkan masalah umum dalam peran Spesialis Dukungan TI.
+### Konsep Utama
 
-### Keterampilan yang akan Anda peroleh
-
-* Powershell
-* Sistem File Linux
-* Linux
-* Antarmuka Baris Perintah
+* Mengetahui apa saja komponen utama yang menyusun sebuah sistem operasi.
+* Memahami proses boot dari sebuah sistem operasi.
+* Mampu menginstal sistem operasi.
+* Buat file menggunakan sistem operasi Windows dan Linux.
