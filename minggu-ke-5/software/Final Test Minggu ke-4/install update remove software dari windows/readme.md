@@ -8,4 +8,4 @@ Ada tiga tujuan pembelajaran untuk lab ini:
 
 * **Instal** - Anda akan menginstal browser web Mozilla Firefox. Saat ini tidak ada versi Firefox di mesin yang akan Anda gunakan, jadi ini akan menjadi instalasi baru.
 * **Perbarui** - Mesin yang akan Anda gunakan sudah diinstal sebelumnya dengan VLC Media Player versi lama. Anda akan memperbarui VLC ke versi terbaru.
-* * **Copot pemasangan** - Anda akan menghapus alat pengeditan foto GIMP dari mesin, menghapusnya seluruhnya.
+* **Copot pemasangan** - Anda akan menghapus alat pengeditan foto GIMP dari mesin, menghapusnya seluruhnya.
