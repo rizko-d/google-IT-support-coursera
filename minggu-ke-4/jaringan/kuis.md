@@ -22,7 +22,7 @@ Di bidang TI, mengelola, membangun, dan merancang jaringan dikenal sebagai _____
 > Manajemen dan pembangunan jaringan dikenal sebagai jaringan.
 <br>
 
-### Internet untuk segala
+### IoT
 
 Benar atau salah: Internet of Things adalah konsep yang memungkinkan lebih banyak perangkat terhubung ke Internet.
 
