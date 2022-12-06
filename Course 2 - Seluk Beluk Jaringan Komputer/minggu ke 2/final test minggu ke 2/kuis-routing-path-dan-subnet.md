@@ -18,11 +18,11 @@ Let’s see how much you’ve learned about routing paths and subnetting! In thi
 
 <br><hr><br> 
 
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/rizko-d/google-IT-support-coursera/blob/main/Course%202%20-%20Seluk%20Beluk%20Jaringan%20Komputer/minggu%20ke%202/final%20test%20minggu%20ke%202/asset/1.jpg">
+<img src="https://github.com/rizko-d/google-IT-support-coursera/blob/main/Course%202%20-%20Seluk%20Beluk%20Jaringan%20Komputer/minggu%20ke%202/final%20test%20minggu%20ke%202/asset/2.jpg">
+<img src="https://github.com/rizko-d/google-IT-support-coursera/blob/main/Course%202%20-%20Seluk%20Beluk%20Jaringan%20Komputer/minggu%20ke%202/final%20test%20minggu%20ke%202/asset/3.jpg">
+<img src="https://github.com/rizko-d/google-IT-support-coursera/blob/main/Course%202%20-%20Seluk%20Beluk%20Jaringan%20Komputer/minggu%20ke%202/final%20test%20minggu%20ke%202/asset/4.jpg">
+<img src="https://github.com/rizko-d/google-IT-support-coursera/blob/main/Course%202%20-%20Seluk%20Beluk%20Jaringan%20Komputer/minggu%20ke%202/final%20test%20minggu%20ke%202/asset/5.jpg">
+<img src="https://github.com/rizko-d/google-IT-support-coursera/blob/main/Course%202%20-%20Seluk%20Beluk%20Jaringan%20Komputer/minggu%20ke%202/final%20test%20minggu%20ke%202/asset/6.jpg">
+<img src="https://github.com/rizko-d/google-IT-support-coursera/blob/main/Course%202%20-%20Seluk%20Beluk%20Jaringan%20Komputer/minggu%20ke%202/final%20test%20minggu%20ke%202/asset/7.jpg">
+<img src="https://github.com/rizko-d/google-IT-support-coursera/blob/main/Course%202%20-%20Seluk%20Beluk%20Jaringan%20Komputer/minggu%20ke%202/final%20test%20minggu%20ke%202/asset/8.jpg">
