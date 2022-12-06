@@ -4,10 +4,10 @@
 
 Apa kepanjangan dari CIDR?
 
-* Perutean Tujuan Internet Tanpa Kelas
-* Perutean Antar-Tujuan Berkelas
-* **Perutean Antar-Domain Tanpa Kelas**
-* Perutean Identifikasi Kelas Penuh
+* Classless Internet Destination Routing
+* Classfull Inter-Destination Routing
+* Classless Inter-Domain Routing
+* Classfull Identification Routing
 
 > CIDR adalah singkatan dari Classless Inter-Domain Routing.
 ### Pertanyaan 2
