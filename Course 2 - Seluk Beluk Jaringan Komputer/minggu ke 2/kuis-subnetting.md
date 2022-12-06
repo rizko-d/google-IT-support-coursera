@@ -6,7 +6,7 @@ Apa kepanjangan dari CIDR?
 
 * Classless Internet Destination Routing
 * Classfull Inter-Destination Routing
-* Classless Inter-Domain Routing
+* **Classless Inter-Domain Routing**
 * Classfull Identification Routing
 
 > CIDR adalah singkatan dari Classless Inter-Domain Routing.
