@@ -1,0 +1,38 @@
+## Resolusi Nama
+
+<br>
+
+### Pertanyaan 1
+
+Protokol lapisan transport apa yang biasanya digunakan DNS?
+
+* TCP
+* IP
+* ICMP
+* **UDP**
+
+> Sementara DNS over TCP memang ada, UDP adalah protokol yang paling umum.
+<br>
+
+### Pertanyaan 2
+
+Sebuah DNS TTL menentukan apa?
+
+* Ada berapa langkah dalam proses resolusi
+* Seberapa jauh DNS dari Anda
+* Berapa banyak resolusi DNS yang dapat dilakukan sebelum IP harus diubah
+* Berapa lama entri DNS diizinkan untuk di-cache**
+
+> TTL adalah singkatan dari Time to Live dan menentukan berapa lama entri DNS dapat di-cache.
+<br>
+
+### Pertanyaan 3
+
+Berapa banyak root server yang ada?
+
+* 8
+* **13**
+* 16
+* 17
+
+> Ada 13 server root.
