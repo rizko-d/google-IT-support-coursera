@@ -1,0 +1,38 @@
+## VPN & Proksi
+
+<br>
+
+### Pertanyaan 1
+
+Autentikasi dua faktor adalah_______________________________________.
+
+* metode di mana Anda memerlukan dua kata sandi.
+* metode yang membutuhkan dua nama pengguna.
+* metode di mana Anda mengautentikasi dua kali.
+* **metode yang membutuhkan lebih dari sekadar nama pengguna dan kata sandi.**
+
+> Otentikasi dua faktor memerlukan nama pengguna/kata sandi dan sesuatu yang ekstra.
+<br>
+
+### Pertanyaan 2
+
+VPN dikenal sebagai protokol _____.
+
+* tanpa koneksi
+* lapisan tautan data
+* ** tunneling **
+* lapisan jaringan
+
+> VPN adalah protokol tunneling.
+<br>
+
+### Pertanyaan 3
+
+Proksi adalah sesuatu yang _______________________.
+
+* mengirimkan data melalui satu segmen jaringan.
+* **berkomunikasi atas nama sesuatu yang lain.**
+* mengenkripsi lalu lintas yang dikirim melalui Internet.
+* memungkinkan banyak perangkat untuk berbicara ke satu perangkat lain.
+
+> Sementara proxy banyak hal, mereka terutama berkomunikasi atas nama sesuatu yang lain.
