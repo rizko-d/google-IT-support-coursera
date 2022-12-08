@@ -1,0 +1,40 @@
+## Protokol Konfigurasi Host Dinamis
+
+<br>
+
+### Pertanyaan 1
+
+Apa empat hal yang perlu dikonfigurasi oleh semua komputer agar dapat beroperasi di jaringan modern? Centang semua yang sesuai.
+
+* Server NTP
+* Porta TCP
+* **Server nama**
+* **Alamat IP**
+* **Gerbang default**
+* **Subnet mask**
+* Alamat MAC
+
+<br>
+
+### Pertanyaan 2
+
+Saat menggunakan Fixed Allocation DHCP, apa yang digunakan untuk menentukan IP komputer?
+
+* A record
+* Location
+* **A MAC address**
+* A subnet maskk
+
+> Alokasi Tetap DHCP memastikan bahwa komputer menerima alamat IP yang dicadangkan untuknya melalui alamat MAC-nya.
+<br>
+
+### Pertanyaan 3
+
+Proses di mana klien dikonfigurasi untuk menggunakan upaya DHCP untuk mendapatkan informasi konfigurasi jaringan dikenal sebagai _________________.
+
+* **Penemuan DHCP**
+* Permintaan DHCP
+* Penawaran DHCP
+* Pengakuan DHCP
+
+> DHCP Discovery adalah cara klien menentukan informasi konfigurasi.
