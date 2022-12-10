@@ -118,7 +118,6 @@ WPA adalah singkatan dari _______.
 * WiFi Proxy Access
 * Wired Protected Access
 
-15.
 Pertanyaan #15
 Nama lain untuk jaringan seluler adalah jaringan ______.
 
