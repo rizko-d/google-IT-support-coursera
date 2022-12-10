@@ -18,8 +18,8 @@ Salah satu server DNS publik Level 3 adalah ____________.
 
 Alat penyelesai DNS yang tersedia di semua sistem operasi desktop utama adalah __________.
 
-* tuan rumah
-* pelacak
+* host
+* tracert
 * ping
 * **nslookup**
 
@@ -32,7 +32,7 @@ Organisasi yang bertanggung jawab atas DNS di tingkat global adalah ________.
 
 * Google
 * RFC
-* **SAYA BISAA**
+* **ICANN**
 * IANA
 
 > ICANN bertanggung jawab atas DNS di tingkat global.
